@@ -40,6 +40,4 @@ using the data which ships with the repo, `easymap` renders the following:
 
 # license
 
-MIT
-
-https://github.com/bevacqua/easymap/blob/master/resources/demo.png
+mit
