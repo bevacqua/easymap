@@ -1,0 +1,18 @@
+body {
+  margin: 0;
+}
+a {
+  color: #e92c6c;
+  font-family: Merriweather, Arial;
+}
+.em-map {
+  width: 100vw;
+  height: 100vh;
+  opacity: 0;
+  visibility: hidden;
+  transition: opacity 1s ease-in-out;
+}
+.em-map-opaque {
+  opacity: 1;
+  visibility: visible;
+}

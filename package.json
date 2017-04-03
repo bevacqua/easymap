@@ -1,0 +1,15 @@
+{
+  "name": "easymap",
+  "version": "1.0.0",
+  "description": "🗺 simple use of Google Maps API to render a bunch of markers.",
+  "main": "index.js",
+  "scripts": {
+    "start": "static-server ."
+  },
+  "keywords": [],
+  "author": "Nicolás Bevacqua <nico@ponyfoo.com> (https://ponyfoo.com/)",
+  "license": "MIT",
+  "dependencies": {
+    "contra": "1.9.4"
+  }
+}
